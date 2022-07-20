@@ -12,3 +12,9 @@ Second, the code used on the TinkerCard website "https://www.tinkercad.com/dashb
 Finally, the piece was tested at the headquarters and succeeded in operating it
 
 <img width="395" alt="بدون عنوان" src="https://user-images.githubusercontent.com/108091010/180078249-254a5943-0f5e-4013-ac2e-06af3e91c9c9.png">
+
+#brushless 
+
+Try the same first steps to create a brushless circle
+
+![WhatsApp Image 2022-07-20 at 11 52 27 PM](https://user-images.githubusercontent.com/108091010/180080357-50233619-bb80-4f92-a2e9-bfaa7e130b59.jpeg)
